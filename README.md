@@ -1,4 +1,4 @@
-# Simple LangChain Chatbot
+# Simple customize-FAQ-chatbot
 
 A straightforward chatbot implementation built with LangChain and LangGraph that maintains conversation history. This project demonstrates how to build a simple yet effective conversational AI that remembers context across multiple interactions.
 
@@ -14,7 +14,8 @@ A straightforward chatbot implementation built with LangChain and LangGraph that
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/langchain-simple-chatbot.git
+   git clone https://github.com/SanthanaBharathiM/customize-FAQ-chatbot
+.git
    cd langchain-simple-chatbot
    ```
 
